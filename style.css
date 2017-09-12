@@ -1,0 +1,225 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  height: 100%;
+}
+
+.home {
+  width: 100%;
+  padding: 0px;
+}
+
+img.personal-photo {
+  padding: 0px;
+  margin-top: 20px;
+}
+
+nav {
+  background-color: white;
+  z-index: 2;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  color: white;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+#navbarSupportedContent {
+  width: 100%;
+  margin: 0 auto;
+}
+
+nav ul {
+  padding: 0px;
+  margin: auto;
+}
+
+.name {
+  color: #3CB898;
+  text-align: center;
+}
+
+.navbar-nav>li>a {
+  color: #808080;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.footer {
+  background-color: #e6e6e6;
+  height: 100%;
+}
+
+.footer ul {
+  list-style-type: none;
+  text-align: center;
+  height: 10vh;
+  line-height: 10vh;
+  padding: 0px;
+}
+
+.footer ul li {
+  display: inline;
+}
+
+.footer ul li i {
+  margin: auto 5px;
+}
+
+.footer ul li a {
+  color: #222222;
+  display: inline;
+  vertical-align: middle;
+}
+
+.about-container {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.bolder {
+  font-weight: 900;
+}
+
+hr {
+  border-color: #3CB898;
+}
+
+.project-hr hr {
+  border-color: #D3D3D3;
+  width: 50%;
+  margin: 40px auto;
+}
+
+.navbar-div hr {
+  border-color: #222222;
+  margin: 0;
+  padding: 0;
+}
+
+.project-img {
+  width: 100%;
+  display: block;
+  margin: 5px auto;
+}
+
+.project {
+  align-content: center;
+}
+
+.technology-tags {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.technology-tags li {
+  display: inline;
+  background-color: #808080;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+  margin-right: 5px;
+  font-size: 80%;
+}
+
+form {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.contact-line {
+  text-align: center;
+}
+
+form button {
+ text-align: center;
+}
+
+.contact-container {
+  margin-bottom: 2vh;
+}
+
+.btn-submit {
+  color: #222222;
+  border-color: #222222;
+  background-color: white;
+}
+
+.email-line {
+  margin: 20px 0;
+}
+
+.email-line a {
+  color: #222222;
+}
+
+.btn-resume {
+  margin-bottom: 2vh;
+  transition: all 0.3s ease 0s;
+  text-transform: uppercase;
+}
+
+.btn-resume a {
+  color: #222222;
+}
+
+.project-name {
+  margin: 20px 0;
+}
+
+.container {
+  margin-top: 5vh;
+}
+
+.btn-resume:hover {
+  background-color: #3CB898;
+  border-color: #3CB898;
+  color: white;
+}
+
+.btn-resume a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-submit:hover {
+  background-color: #3CB898;
+  border-color: #3CB898;
+  color: white;
+}
+
+.btn-submit {
+  transition: all 0.3s ease 0s;
+  text-transform: uppercase;
+}
+
+.navbar-fixed-top {
+  border-bottom-color: #808080;
+  border-bottom-width: thin;
+  padding-bottom: 10px;
+}
+
+.name-code-button {
+  position: relative;
+  margin: 0 auto;
+}
+
+.nav-link.active {
+  color: #3CB898;
+}
+
+.code-link-btn {
+  margin-top: 10px;
+}
+
+.btn-blingring {
+  margin-left: 5px;
+}
